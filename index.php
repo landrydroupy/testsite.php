@@ -24,7 +24,7 @@ E-mail: <input type="text" name="email"><br>
 </form>
 
 	<p>Please fill out the below form to test using GET.</p>
-<form action="page3.php" method="get">
+<form action="window.php" method="get">
 Name: <input type="text" name="name"><br>
 	
 E-mail: <input type="text" name="email"><br>
