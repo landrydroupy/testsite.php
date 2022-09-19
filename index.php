@@ -8,14 +8,14 @@
 
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
-<?php function hey(){
-	echo "Hello World!";}
+<?php function test(){
+	echo "Welcome to my PHP website";}
 	hey()?>
 
 <div class="container" id="main-content">
 	    
-	<h2>This is my Homework 2 site!</h2>
-	<p>Please fill out the below form to test using POST.</p>
+	<h2>Landry Droupy - Homework 2</h2>
+	<p>Filling out information here will use the POST method</p>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 	
@@ -23,7 +23,7 @@ E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
 
-	<p>Please fill out the below form to test using GET.</p>
+	<p>Filling out the information here will use the GET method</p>
 <form action="window.php" method="get">
 Name: <input type="text" name="name"><br>
 	
