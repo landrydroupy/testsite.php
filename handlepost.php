@@ -1,13 +1,10 @@
-<?php include("includes/a_config.php");?>
+
 <!DOCTYPE html>
 <html>
-<head>
-	<?php include("includes/head-tag-contents.php");?>
-</head>
+
 <body>
 
-<?php include("includes/design-top.php");?>
-<?php include("includes/navigation.php");?>
+
 
 <div class="container" id="main-content">
 	<h1>This is the POST response</h1>
@@ -18,7 +15,7 @@ Your email address is: <?php echo $_POST["email"]; ?>
   
 </div>
 
-<?php include("includes/footer.php");?>
+
 
 </body>
 </html>
