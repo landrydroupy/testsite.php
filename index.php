@@ -16,7 +16,7 @@ E-mail: <input type="text" name="email"><br>
 </form>
 
 	<p>Filling out the information here will use the GET method</p>
-<form action="window.php" method="get">
+<form action="handleget.php" method="get">
 Name: <input type="text" name="name"><br>
 	
 E-mail: <input type="text" name="email"><br>
