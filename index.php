@@ -2,6 +2,10 @@
 <!DOCTYPE html>
 <html>
 
+	<head>
+	<?php include("header.php");?>
+	</head>	
+
 <body>
 
 <div class="container" id="main-content">
