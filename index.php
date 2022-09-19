@@ -8,9 +8,7 @@
 
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
-<?php function test(){
-	echo "Welcome to my PHP website";}
-	hey()?>
+
 
 <div class="container" id="main-content">
 	    
